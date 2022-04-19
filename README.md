@@ -1,2 +1,2 @@
 # Projeto-Site
- Layout básico para desenvolver um noção de como hospedar um site utilizando o github pages.
+ Layout básico para desenvolver uma noção de como hospedar um site utilizando o github pages.
