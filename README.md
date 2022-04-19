@@ -1,2 +1,2 @@
 # Projeto-Site
- Projeto de site do curso em vídeo
+ Layout básico para desenvolver um noção de como hospedar um site utilizando o github pages.
